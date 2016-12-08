@@ -1,0 +1,7 @@
+div#mymodule_block_left p {
+  text-align: center;
+}
+
+div#mymodule_block_left span {
+  font-style:italic;
+}

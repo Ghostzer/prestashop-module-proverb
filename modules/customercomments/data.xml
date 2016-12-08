@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+	<item>
+		<nom>Thomas</nom>
+		<message>Merci pour votre rapidité. J'ai reçu ma commande en 48h!</message>
+	</item>
+
+	<item>
+		<nom>Benjamin</nom>
+		<message>Rien à dire! Parfait</message>
+	</item>
+
+	<item>
+		<nom>Nicolas</nom>
+		<message>Site très serieux! Je recommande.</message>
+	</item>
+
+</items>
